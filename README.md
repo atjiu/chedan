@@ -16,3 +16,6 @@ node index.js
 
 # 预览
 
+![](http://7xt6w6.com2.z0.glb.qiniucdn.com/QQ20160512-1.png)
+
+![](http://7xt6w6.com2.z0.glb.qiniucdn.com/QQ20160512-0.png)
