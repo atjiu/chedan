@@ -9,10 +9,16 @@ npm install
 ```
 
 ```
+gulp
+//或者
 node index.js
 ```
 
 浏览器打开访问：http://localhost:4000
+
+# 贡献
+
+有任何意见或建议都欢迎提 issue ，更欢迎提pr
 
 # 预览
 
