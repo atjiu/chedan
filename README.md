@@ -16,6 +16,11 @@ node index.js
 
 # 预览
 
-![](http://7xt6w6.com2.z0.glb.qiniucdn.com/QQ20160512-1.png)
+手机上效果
 
 ![](http://7xt6w6.com2.z0.glb.qiniucdn.com/QQ20160512-0.png)
+
+电脑上效果
+
+![](http://7xt6w6.com2.z0.glb.qiniucdn.com/QQ20160512-1.png)
+
