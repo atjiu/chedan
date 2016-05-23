@@ -87,14 +87,14 @@
         $('#messages').append(tplRender(data));
         $('html, body').animate({
           scrollTop: $(document).height()
-        }, 100);
+        }, 0);
       });
       socket.on('hi', function(data) {
         $('#messages').append($('<p class="text-center">').text(data.msg));
         $("#userlist").html(usersTplRender(data));
         $('html, body').animate({
           scrollTop: $(document).height()
-        }, 100);
+        }, 0);
       });
       $('form').show();
     }
